@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" align="center" height="300" width="300" />
-</div>  
+<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" align="center" height="300" width="300" />
+</div> 
   
 
 ### <div align="center">About me
@@ -101,7 +101,7 @@ Thank you for visiting my profile!</div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thiagoc-machado&theme=vue-dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api?username=thiagoc-machado&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoc-machado&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+ 
   
 
 <br/>  
