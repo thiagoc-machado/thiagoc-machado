@@ -21,7 +21,7 @@ I really enjoy what I do and hope to continue learning and growing as a develope
 Thank you for visiting my profile!</div>  
   
 
-- 🔭 I’m currently working on [E-Wok - Order control for restaurants](https://e-wok.onrender.com/)  
+- 🔭 I’m currently working on [ServCenter- System for controlling services, customers, and cash flow for technical assistance.](https://github.com/thiagoc-machado/ServCenter-Fullstack-Django)  
   
 
 - 🌱 I’m currently learning React  
