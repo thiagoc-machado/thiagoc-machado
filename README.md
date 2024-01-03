@@ -99,7 +99,7 @@ Thank you for visiting my profile!</div>
 
 ## Github Stats  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thiagoc-machado&theme=vue-dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api?username=thiagoc-machado&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoc-machado&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
   
