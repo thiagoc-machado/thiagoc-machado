@@ -21,10 +21,10 @@ I really enjoy what I do and hope to continue learning and growing as a develope
 Thank you for visiting my profile!</div>  
   
 
-- 🔭 I’m currently working on [ServCenter- System for controlling services, customers, and cash flow for technical assistance.](https://github.com/thiagoc-machado/ServCenter-Fullstack-Django)  
+- 🔭 I’m currently working on Aidea Legal (Planet group)
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning Multitenancy  
   
 
 - ❓ I am always willing to help and learn from others  
