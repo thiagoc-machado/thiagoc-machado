@@ -1,115 +1,224 @@
-<div align="center">
-<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" align="center" height="300" width="300" />
-</div> 
-  
+<div align='center'>
 
-### <div align="center">About me
+# 👋 Hi, I'm Thiago Machado
 
-Hello! I am a fullstack developer passionate about technology and always seeking to improve and stay up to date. I have experience in backend programming with Python and front-end with JavaScript, and I am currently studying React to further expand my skills. In addition, I have knowledge in other technologies and tools, such as SQL, HTML, CSS, and Git.
+### Full Stack Developer • Python • Django • Cloud • AI
 
-What you can find here
-On my GitHub, you can find several repositories with my personal projects and my portfolio, which show a little of my work and my commitment to code quality and user experience. Some of the most interesting projects you can check out are:
+Building scalable SaaS platforms, real-time systems and AI-powered applications.
 
-CAP 2022: Study tool for the CAP exam - Python/Flask and javascript.
-Triac Solutions: Appliance maintenance website - HTML, CSS, and JavaScript
-E-Wok: Web application for restaurants - Python , Flask, HTML, CSS, JavaScript, and SQLite
-My Portfolio: JavaScript, css, and html. With a game at the end.
+<p>
+  <a href='https://thiagomachado.dev'>Portfolio</a> •
+  <a href='https://www.linkedin.com/in/thiagomach/'>LinkedIn</a> •
+  <a href='https://github.com/thiagoc-machado'>GitHub</a>
+</p>
 
-Contact
-I really enjoy what I do and hope to continue learning and growing as a developer, always seeking new opportunities and challenges. If you are interested in learning more about me and my projects, feel free to take a look at my profile and get in touch. I am always willing to help and learn from others. You can also find me on other platforms, such as https://www.linkedin.com/in/thiagomach/.
-
-Thank you for visiting my profile!</div>  
-  
-
-- 🔭 I’m currently working on Aidea Legal (Planet group)
-  
-
-- 🌱 I’m currently learning Multitenancy  
-  
-
-- ❓ I am always willing to help and learn from others  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+# 🚀 About Me
 
+I'm a Full Stack Developer focused on backend engineering, scalable architectures and AI-powered systems.
 
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+I specialize in building production-ready applications using Python, Django, Django REST Framework and FastAPI, combined with modern frontend technologies such as Vue.js, Next.js and TypeScript.
+
+My experience includes designing multi-tenant SaaS platforms, real-time systems with WebSockets, cloud-native infrastructures and AI-powered solutions using LLMs, RAG pipelines and NLP workflows.
+
+I have worked on projects involving restaurant management systems, legaltech, fintech, geospatial platforms and distributed systems, always focusing on clean architecture, scalability, performance and maintainability.
+
+Main technologies and tools I work with:
+
+- Python
+- Django / DRF / FastAPI
+- PostgreSQL
+- Redis / RabbitMQ
+- Docker / Kubernetes
+- AWS / GCP
+- Vue.js / Next.js
+- AI integrations with LLMs, RAG and NLP
+
+I have contributed to projects in companies such as Grupo Planeta, Stocken Capital, Idatis and Ghenova Digital, working on backend systems, financial platforms, legal systems, geospatial applications and scalable cloud-native architectures.
+
+My experience includes API design, realtime systems, multitenancy, DevOps workflows, AI integrations and distributed application development using modern backend technologies and cloud infrastructure.
+
+---
+
+# 🔥 Featured Projects
+
+## 🍽️ MagisMenu
+
+Multi-tenant SaaS platform for restaurants, cafés and bars.
+
+### Features
+
+* QR code ordering
+* Self-service kiosks
+* Waiter tablet integration
+* Real-time kitchen display
+* Customer status screen
+* Admin dashboard
+* WebSocket real-time updates
+* Multitenancy architecture
+
+### Stack
+
+`Django` • `DRF` • `Vue.js` • `PostgreSQL` • `Redis` • `Docker` • `AWS`
+
+---
+
+## 🌍 GeoAlert
+
+Geospatial monitoring and alert platform.
+
+### Features
+
+* Interactive maps
+* Geolocation
+* Dynamic alerts
+* AI-assisted analysis
+* Public alert integrations
+* Distance and type filters
+
+### Stack
+
+`Django` • `PostGIS` • `Leaflet` • `Vue.js` • `Docker`
+
+---
+
+## 🎙️ Voyc
+
+Real-time voice analysis and alert platform.
+
+### Features
+
+* Real-time transcription
+* Deepgram integration
+* Alert engine
+* Speech speed analysis
+* Async processing
+* WebSocket communication
+
+### Stack
+
+`Django Channels` • `RabbitMQ` • `Celery` • `Deepgram` • `PostgreSQL`
+
+---
+
+## 🧠 AI / RAG Projects
+
+Projects involving:
+
+* LangChain
+* OpenAI API
+* Vector embeddings
+* NLP pipelines
+* Semantic search
+* PDF processing
+* AI assistants
+
+---
+
+# 🛠️ Tech Stack
+
+## Backend
+
+<p>
+  <img src='https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs' />
+</p>
+
+## Frontend
+
+<p>
+  <img src='https://skillicons.dev/icons?i=vue,react,nextjs,ts,js' />
+</p>
+
+## Databases & Messaging
+
+<p>
+  <img src='https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq' />
+</p>
+
+## Cloud & DevOps
+
+<p>
+  <img src='https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,nginx,githubactions' />
+</p>
+
+## AI & Data
+
+<p>
+  <img src='https://skillicons.dev/icons?i=tensorflow,pytorch' />
+</p>
+
+---
+
+# 🧩 Engineering Areas
+
+```text
+Backend Development
+API Design
+Distributed Systems
+Multitenancy
+Realtime Systems
+AI Integrations
+Cloud Infrastructure
+DevOps
+Observability
+Automated Testing
+Clean Architecture
+```
+
+---
+
+# 📈 Experience Highlights
+
+* Built SaaS platforms from scratch
+* Designed multitenant architectures
+* Developed real-time systems with WebSockets
+* Worked with legaltech and fintech systems
+* Built AI-powered applications with RAG and NLP
+* Implemented Dockerized cloud-native environments
+* Experience with AWS, GCP and Kubernetes
+* Applied SOLID principles and automated testing in production projects
+
+---
+
+# 📊 GitHub Stats
+
+<div align='center'>
+
+<img height='170em' src='https://github-readme-stats.vercel.app/api?username=thiagoc-machado&show_icons=true&theme=vue-dark&hide_border=true' />
+
+<img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoc-machado&layout=compact&theme=vue-dark&hide_border=true' />
+
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=thiagoc-machado&theme=vue-dark&hide_border=true' />
+
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+# 🌐 Connect With Me
 
+<div align='center'>
 
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/thiagomach" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href='https://thiagomachado.dev'>
+  <img src='https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white' />
 </a>
-<a href="https://github.com/thiagoc-machado" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href='https://www.linkedin.com/in/thiagomach/'>
+  <img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' />
 </a>
-<a href="https://instagram.com/thiagoc.machado" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+<a href='https://github.com/thiagoc-machado'>
+  <img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white' />
+</a>
 
+</div>
 
-## Github Stats  
-![](https://github-readme-streak-stats.herokuapp.com/?user=thiagoc-machado&theme=vue-dark&hide_border=false)<br>
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoc-machado&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- 
-  
+<div align='center'>
 
-<br/>  
+<img src='https://komarev.com/ghpvc/?username=thiagoc-machado&style=flat-square' />
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=thiagoc-machado&&style=flat-square" align="center" />
-</div>  
+</div>
